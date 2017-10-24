@@ -1,6 +1,6 @@
 <?php
-
-echo "Hola mundo";
+$NombePersona="Pepito";
+echo "Hola ".$NombePersona
 
 ?>
 
