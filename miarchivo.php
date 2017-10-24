@@ -2,7 +2,7 @@
 $NombePersona="Pepito";
 //error
 echo "Hola ".$NombePersona
-/*
+
   function ProbarBD()
 {
 if ($OK)
