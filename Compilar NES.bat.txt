@@ -1,0 +1,3 @@
+@echo off
+cl65 -d -L C:\NES\lib -t nes -I C:\NES\include -S -T -V holaNes.c -o hello.asm
+pause
