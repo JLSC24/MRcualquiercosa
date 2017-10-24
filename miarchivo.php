@@ -1,6 +1,6 @@
 <?php
 $NombePersona="Pepito";
-error
+//error
 echo "Hola ".$NombePersona
 
 ?>
